@@ -16,4 +16,4 @@ Since 2nd August, LVEB Post-It Notes are officially born and available to users 
 * 📏 Post-It Notes Rules [here](https://lavie-est-belle.github.io/postit-notes/rules)
 * ✍️ Become a Contributor [here](https://lavie-est-belle.github.io/postit-notes/contribute)
 * 🚨 Got a Post-It Note on your post? Click [here](https://lavie-est-belle.github.io/postit-notes/noted)
-* ❓ Frequently Asked Questions [here](https://lavie-est-belle.github.io/postit-notes/noted)
+* ❓ Frequently Asked Questions [here](https://lavie-est-belle.github.io/postit-notes/faq)
