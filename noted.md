@@ -6,8 +6,6 @@ If you have a Post-It Note on your post and would like it removed, it must meet 
 -	While appealing, you must have:
   1. The **sources** to back up your post.
   2. **No active** Community Guidelines strike (at least for 2 weeks) for either NSFW, Misinformation or Minimodding.
-1.	The sources to back up your post.
-2.	No active Community Guidelines strike (at least for 2 weeks) for either NSFW, Misinformation or Minimodding.
 3.	To **not be childish.**
 
 ######  
